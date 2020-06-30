@@ -1,5 +1,6 @@
 # WebBoard
-Spring_BoardWeb_TeamProject
+Spring_BoardWeb_TeamProject ( 팀원 3인 : 조상익 / 이규호 / 우치경 )
+
 
 ## 프로젝트 수행 목적 
 - 웹개발에 가장 기본이 되는 형식인 게시판을 구현해보며, 신입 웹 개발자로서의 기본소양 함양
