@@ -20,3 +20,4 @@ Spring_BoardWeb_TeamProject
 - Maven 3.8 
 
 ## 프로그램 구동 예시
+[![Watch the video](https://img.youtube.com/vi/VBBJe7n8v6s/maxresdefault.jpg)](https://www.youtube.com/watch?v=vx2SSyT5v4c)
